@@ -1,0 +1,7 @@
+.fighterImage {
+  height: 480px;
+}
+
+.fighterElementRight {
+  transform: scaleX(-1);
+}

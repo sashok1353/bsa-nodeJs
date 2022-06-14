@@ -1,0 +1,23 @@
+.arenaRoot {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-image: url("https://www.wallpaperup.com/uploads/wallpapers/2017/12/01/1161663/743f84a49d4b348ad7181053359fc3e5-700.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.healthBars {
+  display: flex;
+  margin: 30px;
+  justify-content: center;
+}
+
+.battlefield {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 60px;
+}
